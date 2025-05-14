@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hernanChain
-- 👀 I’m interested in Java with Spring Framework
-- 🌱 I’m currently learning Microservices
+- 👀 I’m specialized in Java with Spring Boot and different technologies related with.
+- 🌱 I’m currently working as a Backend Software Developer
 - 📫 How to reach me @hernanChain 
 
 <!---
